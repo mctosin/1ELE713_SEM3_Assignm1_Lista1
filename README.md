@@ -1,7 +1,7 @@
 # 1ELE713_SEM3_Assignm1_Lista1
 Lista com 4 exercícios sobre Transformada de Laplace e suas propriedades.
 
-Resolva a lista no arquivo 1ELE713_Sem3_Assignm1-Lista1.pdf
+Resolva a lista no arquivo 1ELE713-Sem3-Assignm1-Lista1.pdf
 
 Observações:
 
